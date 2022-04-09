@@ -2,15 +2,15 @@
 ## Header 2
 ### Header 3
 
-## Mixer Roleplay
+# Mixer Roleplay
 
 # Header 1
 ## Header 2
 ### Header 3
  
-**Bold** Owners:
-_Italic_ 1. OBG Mixer
-_Italic_ 2. Ryann
+## Owners:
+### 1. OBG Mixer
+### 2. Ryann
 
 
 **Bold** and _Italic_ and `Code` text
