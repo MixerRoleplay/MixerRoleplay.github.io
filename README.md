@@ -1,12 +1,5 @@
-# Header 1
-## Header 2
-### Header 3
 
 # Mixer Roleplay
-
-# Header 1
-## Header 2
-### Header 3
  
 ## Owners:
 ### 1. OBG Mixer
