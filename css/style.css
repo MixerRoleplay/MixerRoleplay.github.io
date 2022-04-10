@@ -121,7 +121,7 @@ img {
 body {
     padding: 20px;
     animation: twitch 0.5s infinite;
-    background: repeating-linear-gradient(0deg, #000, #000 2px, #220000 2px, #220000 4px);
+    background: repeating-linear-gradient(0deg, #000, #000 2px, #210024 2px, #210024 4px);
 }
 
 .screen {
@@ -204,7 +204,7 @@ button:visited {
     position: relative;
     width: 100%;
     background-color: #000;
-    box-shadow: 0 0 80px #f00eec, inset 0 0 150px 50px #FF2A00;
+    box-shadow: 0 0 80px #f00eec, inset 0 0 150px 50px #ff00bb;
     background: repeating-linear-gradient(0deg, #c117c1, #c117c1 1px, #010 1px, #010 2px);
     position: absolute;
     top: 0;
